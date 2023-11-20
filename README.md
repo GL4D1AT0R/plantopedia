@@ -3,7 +3,6 @@ Project for Google Cloud India Hackathon in Collaboration with GFG
 
 Grow Planet
 
-By Team Aogiri Tree IIIT Allahabad
 
 Video : [Grow Planet ](https://www.youtube.com/watch?v=s6tjEqioBhg)
 
